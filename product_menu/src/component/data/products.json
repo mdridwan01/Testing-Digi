@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "quantity": 10,
+    "image": "https://static-01.daraz.com.bd/p/bdb9daa41dd204a05b5051a7e6ea99f9.jpg",
+    "imageAlt": "Wireless Headphones",
+    "title": "Wireless Headphones",
+    "subTitle": "Product for testing",
+    "price": 99.99,
+    "availableProduct": true
+  },
+  {
+    "id": 2,
+    "quantity": 5,
+     "image": "https://img.drz.lazcdn.com/static/bd/p/c64d3d53c937c255ffd30bbd1f4a7845.jpg_400x400q75.avif",
+    "imageAlt": "Wireless Headphones",
+    "title": "Pran Drinko Strawberry Juice 250ml",
+    "subTitle": "Product for testing",
+    "price": 49.95,
+    "availableProduct": true
+  },
+  {
+    "id": 3,
+    "quantity": 0,
+     "image": "https://img.drz.lazcdn.com/static/bd/p/048dea36d03caf588cea3c5463eab393.jpg_400x400q75.avif",
+    "imageAlt": "Wireless Headphones",
+    "title": "Mechanical Keyboard",
+    "subTitle": "Product for testing",
+    "price": 89.5,
+    "availableProduct": false
+  },
+    {
+        "id": 4,
+        "quantity": 20,
+         "image": "https://static-01.daraz.com.bd/p/bdb9daa41dd204a05b5051a7e6ea99f9.jpg",
+        "imageAlt": "Wireless Headphones",
+        "title": "4K Monitor",
+        "subTitle": "Product for testing",
+        "price": 299.99,
+        "availableProduct": true
+    },
+    {
+        "id": 5,
+        "quantity": 15,
+         "image": "https://static-01.daraz.com.bd/p/bdb9daa41dd204a05b5051a7e6ea99f9.jpg",
+        "imageAlt": "Wireless Headphones",
+        "title": "Gaming Chair",
+        "subTitle": "Product for testing",
+        "price": 199.99,
+        "availableProduct": true
+    },
+    {
+        "id": 6,
+        "quantity": 0,
+         "image": "https://static-01.daraz.com.bd/p/bdb9daa41dd204a05b5051a7e6ea99f9.jpg",
+        "imageAlt": "Wireless Headphones",
+        "title": "External SSD",
+        "subTitle": "Product for testing",
+        "price": 129.99,
+        "availableProduct": false
+    },
+    {
+        "id": 7,
+        "quantity": 8,
+         "image": "https://static-01.daraz.com.bd/p/bdb9daa41dd204a05b5051a7e6ea99f9.jpg",
+        "imageAlt": "Wireless Headphones",
+        "title": "Smartphone",
+        "subTitle": "Product for testing",
+        "price": 699.99,
+        "availableProduct": true
+    },
+    {
+        "id": 8,
+        "quantity": 12,
+         "image": "https://static-01.daraz.com.bd/p/bdb9daa41dd204a05b5051a7e6ea99f9.jpg",
+        "imageAlt": "Wireless Headphones",
+        "title": "Smartwatch",
+        "subTitle": "Product for testing",
+        "price": 199.99,
+        "availableProduct": true
+    }   
+]
